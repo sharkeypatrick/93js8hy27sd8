@@ -155,8 +155,8 @@
   elArrayOffsetInput
     .append("input")
     .attr("type", "range")
-    .attr("min", -5.6)
-    .attr("max", 5.6)
+    .attr("min", -7.0)
+    .attr("max", 7.0)
     .attr("step", 0.01)
     .attr("value", elArrayOffsetDegrees)
     .attr("class", "slider")
